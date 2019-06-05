@@ -16,12 +16,12 @@
 * * *
 ### 完成授权
 *
-![image](https://github.com/handayu/AI-Trader-DownLoad/tree/master/image/Login.png)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Login.png)
 
 
 ### 登陆(用个人申请的APIKey进行登陆)
 *
-![image](https://github.com/handayu/OandaTrading/blob/master/image/trading.gif)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Licese.png)
 
 ### 策略-半自动交易
 
