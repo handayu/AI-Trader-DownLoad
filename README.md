@@ -16,7 +16,7 @@
 * * *
 ### 完成授权
 *
-![image](https://github.com/handayu/AI-Trader-DownLoad/tree/master/image/Login.jpg)
+![image](https://github.com/handayu/AI-Trader-DownLoad/tree/master/image/Login.png)
 
 
 ### 登陆(用个人申请的APIKey进行登陆)
