@@ -16,18 +16,17 @@
 * * *
 ### 完成授权
 *
-![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Login.png)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Licese.png)
 
 
 ### 登陆(用个人申请的APIKey进行登陆)
 *
-![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Licese.png)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Login.png)
 
 ### 策略-半自动交易
-
-- 对于任意策略，Multicharts无法生成任意时间区间段的时间长度集合进行回测，虽然在[参数优化]这个功能里有移动区间取样功能，但是还是存在时间随机指定的局限，甚至于对于有些特殊图形交易者而言，静态图的移动取样，因为起始点是静态的，所以，测出来的回测结果也只是那个起始点情境下的移动取样和移动样本回测。
-
-- 我们需要大量的随机试验和样本内外，甚至更加极限状态下的回测模式。
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Indicator.png)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Strategy.png)
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Trade.png)
 
 * * *
 
