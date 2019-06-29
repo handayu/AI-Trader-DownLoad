@@ -37,6 +37,7 @@
 - 1.信息效率差更明显
 - 2.跨市场如果参与者的主体结构是个人投资者，羊群效应会更明显，价差的机会更多(尤其数字货币，几乎都是羊毛)；
 - 3.品种固定的前提下，相比跨品种会一价原理更稳定；
+![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/arbitrage.png)
 
 * * *
 
