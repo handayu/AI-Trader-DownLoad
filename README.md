@@ -28,6 +28,11 @@
 ![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Strategy.png)
 ![image](https://github.com/handayu/AI-Trader-DownLoad/blob/master/image/Trade.png)
 
+
+### 对接国内外Multicharts进行图表和策略交易
+
+### 跨交易所加密数字货币搬砖套利实例
+- 横跨Bittrex,BitFinex,PoloNiex,Okex以及币安交易所的套利交易
 * * *
 
 ### 技术应用？
